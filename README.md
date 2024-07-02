@@ -1,2 +1,4 @@
 # rust-tutorial
-my small rust-project
+---------------
+
+This repo contains small rust-project
